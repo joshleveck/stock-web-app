@@ -1,0 +1,12 @@
+.hero {
+  height: 400px;
+  width: 100%;
+  background: linear-gradient(rgba(212, 0, 250, 0.5), transparent);
+  padding: 20px;
+  padding-left: 30px !important;
+  /*background-color: orange; this your primary color*/
+}
+
+.header {
+  background: rgba(212, 0, 250, 0.5);
+}
